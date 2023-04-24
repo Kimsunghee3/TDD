@@ -1,0 +1,33 @@
+{
+  "name": "230424_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kimsunghee3/TDD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kimsunghee3/TDD/issues"
+  },
+  "homepage": "https://github.com/Kimsunghee3/TDD#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.1",
+    "jest": "^29.5.0",
+    "nodemon": "^2.0.22",
+    "ts-node": "^10.9.1",
+    "tsc-alias": "^1.8.5",
+    "tsconfig-paths": "^4.2.0",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "ts-jest": "^29.1.0"
+  }
+}
